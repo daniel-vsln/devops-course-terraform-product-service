@@ -1,2 +1,2 @@
 # devops-course-terraform-product-service
-Automation for product services
+Example organization product service automation from Enterprise Cloud Infrastructure on Frontend Masters.
